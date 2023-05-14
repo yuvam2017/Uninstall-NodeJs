@@ -1,7 +1,12 @@
-# Uninstall-NodeJs
-
 # Ubuntu 20.04 
 
+# Method 1
+
+    git clone https://github.com/yuvam2017/Uninstall-Nodejs
+    cd Uninstall-Nodejs
+    bash main.sh
+
+# Method 2
 
 ## Find Node js  
 
